@@ -37,6 +37,7 @@ This repository contains:
 | Basics              | ✅ Completed   |
 | Arrays              | ✅ Completed   |
 | STL                 | ✅ Completed   |
+| Searching & Sorting | ✅ Completed   |
 | Linked Lists        | 🔄 In Progress |
 | Trees               | ⬜ Not Started |
 | Graphs              | ⬜ Not Started |
