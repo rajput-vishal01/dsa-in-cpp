@@ -38,7 +38,9 @@ This repository contains:
 | Arrays              | ✅ Completed   |
 | STL                 | ✅ Completed   |
 | Searching & Sorting | ✅ Completed   |
-| Linked Lists        | 🔄 In Progress |
+| Sorting Algos       | ✅ Completed   |
+| Char Arrays & String| 🔄 In Progress |
+| Linked Lists        | ⬜ Not Started |
 | Trees               | ⬜ Not Started |
 | Graphs              | ⬜ Not Started |
 | Dynamic Programming | ⬜ Not Started |
