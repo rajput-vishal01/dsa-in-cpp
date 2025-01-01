@@ -1,5 +1,8 @@
 {
   "files.associations": {
-    "algorithm": "cpp"
+    "*.ndjson": "jsonl",
+    "*.dbclient-js": "javascript",
+    "algorithm": "cpp",
+    "string": "cpp"
   }
 }
