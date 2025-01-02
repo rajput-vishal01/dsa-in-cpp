@@ -1,7 +1,7 @@
 
 /*
 --LEETCODE PROBLEM--
-2125. Number of Laser Beams in a Bank
+890. Find and Replace Pattern
 
 class Solution {
 public:
