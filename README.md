@@ -39,7 +39,9 @@ This repository contains:
 | STL                 | ✅ Completed   |
 | Searching & Sorting | ✅ Completed   |
 | Sorting Algos       | ✅ Completed   |
-| Char Arrays & String| 🔄 In Progress |
+| Char Arrays & String| ✅ Completed   |
+| Basic Mathematics   | ✅ Completed   |
+| Pointers            | 🔄 In Progress |
 | Linked Lists        | ⬜ Not Started |
 | Trees               | ⬜ Not Started |
 | Graphs              | ⬜ Not Started |
