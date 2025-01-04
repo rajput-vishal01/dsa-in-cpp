@@ -38,7 +38,15 @@ This repository contains:
 | Arrays              | ✅ Completed   |
 | STL                 | ✅ Completed   |
 | Searching & Sorting | ✅ Completed   |
+<<<<<<< HEAD
 | Linked Lists        | 🔄 In Progress |
+=======
+| Sorting Algos       | ✅ Completed   |
+| Char Arrays & String| ✅ Completed   |
+| Basic Mathematics   | ✅ Completed   |
+| Pointers            | 🔄 In Progress |
+| Linked Lists        | ⬜ Not Started |
+>>>>>>> a7a0d24 (basic maths done)
 | Trees               | ⬜ Not Started |
 | Graphs              | ⬜ Not Started |
 | Dynamic Programming | ⬜ Not Started |
