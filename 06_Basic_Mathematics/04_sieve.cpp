@@ -30,7 +30,7 @@ vector<bool> Sieve(int n)
         }
     }
     return sieve;
-}
+} //T.c = o(n log(log n))
 
 vector<bool> segmentedSeive(int L, int R)
 {
@@ -45,9 +45,9 @@ vector<bool> segmentedSeive(int L, int R)
     }
 
     vector<bool> segSieve(R - L + 1, true);
-    if (L == 1)
+    if (L == 1 || L == 0 )
     {
-        segSieve[0] = false;
+        segSieve[L] = false;
     }
 
     for (auto prime : basePrimes)
