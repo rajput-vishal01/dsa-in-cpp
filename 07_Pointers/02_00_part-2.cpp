@@ -35,6 +35,10 @@ int main() {
         cout << endl;
     }
 
+// memory Leak : 
+//   A memory leak in C++ occurs when dynamically allocated memory using new or new[] is not properly deallocated using delete or delete[]. 
+//   This means the allocated memory remains inaccessible, even though the program no longer needs it, resulting in wasted memory.
+
     for(int i=0; i<4; i++) {
         delete[] arr[i];
     }
