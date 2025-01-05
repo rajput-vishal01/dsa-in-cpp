@@ -44,7 +44,9 @@ This repository contains:
 | Sorting Algos       | ✅ Completed   |
 | Char Arrays & String| ✅ Completed   |
 | Basic Mathematics   | ✅ Completed   |
-| Pointers            | 🔄 In Progress |
+| Pointers            | ✅ Completed   |
+| Recursion           | 🔄 In Progress |
+| OOP                 | ⬜ Not Started |
 | Linked Lists        | ⬜ Not Started |
 >>>>>>> a7a0d24 (basic maths done)
 | Trees               | ⬜ Not Started |
