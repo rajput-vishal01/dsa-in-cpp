@@ -42,7 +42,8 @@ This repository contains:
 | Char Arrays & String| ✅ Completed   |
 | Basic Mathematics   | ✅ Completed   |
 | Pointers            | ✅ Completed   |
-| Recursion           | 🔄 In Progress |
+| Recursion           | ✅ Completed   |
+| Backtracking and DnC| 🔄 In Progress |
 | OOP                 | ⬜ Not Started |
 | Linked Lists        | ⬜ Not Started |
 | Trees               | ⬜ Not Started |
