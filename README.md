@@ -45,10 +45,17 @@ This repository contains:
 | Char Arrays & String| ✅ Completed   |
 | Basic Mathematics   | ✅ Completed   |
 | Pointers            | ✅ Completed   |
+<<<<<<< HEAD
 | Recursion           | 🔄 In Progress |
 | OOP                 | ⬜ Not Started |
 | Linked Lists        | ⬜ Not Started |
 >>>>>>> a7a0d24 (basic maths done)
+=======
+| Recursion           | ✅ Completed   |
+| Backtracking and DnC| ✅ Completed   |
+| OOPS                | ✅ Completed   |
+| Linked Lists        | 🔄 In Progress |
+>>>>>>> 317991f (oops done)
 | Trees               | ⬜ Not Started |
 | Graphs              | ⬜ Not Started |
 | Dynamic Programming | ⬜ Not Started |
