@@ -43,9 +43,9 @@ This repository contains:
 | Basic Mathematics   | ✅ Completed   |
 | Pointers            | ✅ Completed   |
 | Recursion           | ✅ Completed   |
-| Backtracking and DnC| 🔄 In Progress |
-| OOP                 | ⬜ Not Started |
-| Linked Lists        | ⬜ Not Started |
+| Backtracking and DnC| ✅ Completed   |
+| OOPS                | ✅ Completed   |
+| Linked Lists        | 🔄 In Progress |
 | Trees               | ⬜ Not Started |
 | Graphs              | ⬜ Not Started |
 | Dynamic Programming | ⬜ Not Started |
