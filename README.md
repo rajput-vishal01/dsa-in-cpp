@@ -32,23 +32,25 @@ This repository contains:
 
 ## Progress Tracker
 
-| Module              | Status         |
-| ------------------- | -------------- |
-| Basics              | ✅ Completed   |
-| Arrays              | ✅ Completed   |
-| STL                 | ✅ Completed   |
-| Searching & Sorting | ✅ Completed   |
-| Sorting Algos       | ✅ Completed   |
-| Char Arrays & String| ✅ Completed   |
-| Basic Mathematics   | ✅ Completed   |
-| Pointers            | ✅ Completed   |
-| Recursion           | ✅ Completed   |
-| Backtracking and DnC| ✅ Completed   |
-| OOPS                | ✅ Completed   |
-| Linked Lists        | 🔄 In Progress |
-| Trees               | ⬜ Not Started |
-| Graphs              | ⬜ Not Started |
-| Dynamic Programming | ⬜ Not Started |
+| Module               | Status         |
+| -------------------- | -------------- |
+| Basics               | ✅ Completed   |
+| Arrays               | ✅ Completed   |
+| STL                  | ✅ Completed   |
+| Searching & Sorting  | ✅ Completed   |
+| Sorting Algos        | ✅ Completed   |
+| Char Arrays & String | ✅ Completed   |
+| Basic Mathematics    | ✅ Completed   |
+| Pointers             | ✅ Completed   |
+| Recursion            | ✅ Completed   |
+| Backtracking and DnC | ✅ Completed   |
+| OOPS                 | ✅ Completed   |
+| Linked Lists         | 🔄 In Progress |
+| Stacks               | 🔄 In Progress |
+| Queues               | ⬜ Not Started |
+| Trees                | ⬜ Not Started |
+| Graphs               | ⬜ Not Started |
+| Dynamic Programming  | ⬜ Not Started |
 
 ## How to Use This Repository
 
