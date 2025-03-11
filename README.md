@@ -32,25 +32,35 @@ This repository contains:
 
 ## Progress Tracker
 
-| Module               | Status         |
-| -------------------- | -------------- |
-| Basics               | ✅ Completed   |
-| Arrays               | ✅ Completed   |
-| STL                  | ✅ Completed   |
-| Searching & Sorting  | ✅ Completed   |
-| Sorting Algos        | ✅ Completed   |
-| Char Arrays & String | ✅ Completed   |
-| Basic Mathematics    | ✅ Completed   |
-| Pointers             | ✅ Completed   |
-| Recursion            | ✅ Completed   |
-| Backtracking and DnC | ✅ Completed   |
-| OOPS                 | ✅ Completed   |
-| Linked Lists         | 🔄 In Progress |
-| Stacks               | 🔄 In Progress |
-| Queues               | ⬜ Not Started |
-| Trees                | ⬜ Not Started |
-| Graphs               | ⬜ Not Started |
-| Dynamic Programming  | ⬜ Not Started |
+| Module                | Status         |
+| --------------------- | -------------- |
+| Basics                | ✅ Completed   |
+| Arrays                | ✅ Completed   |
+| STL                   | ✅ Completed   |
+| Searching & Sorting   | ✅ Completed   |
+| Sorting Algos         | ✅ Completed   |
+| Char Arrays & String  | ✅ Completed   |
+| Basic Mathematics     | ✅ Completed   |
+| Pointers              | ✅ Completed   |
+| Recursion             | ✅ Completed   |
+| Backtracking and DnC  | ✅ Completed   |
+| OOPS                  | ✅ Completed   |
+| Linked Lists          | 🔄 In Progress |
+| Stacks                | 🔄 In Progress |
+| Queues                | 🔄 In Progress |
+| Generic & Binary Tree | 🔄 In Progress |
+| Binary Search Trees   | ⬜ Not Started |
+| Heaps                 | ⬜ Not Started |
+| Maps and Tries        | ⬜ Not Started |
+| Dynamic Programming-1 | ⬜ Not Started |
+| Dynamic Programming-2 | ⬜ Not Started |
+| Graph-1               | ⬜ Not Started |
+| Graph-2               | ⬜ Not Started |
+| Bonus Sessions        | ⬜ Not Started |
+| Mentorship Sessions   | ✅ Completed   |
+| --------------------  | -------------- |
+| DSA 3.0 Completed     |
+| --------------------  | -------------- |
 
 ## How to Use This Repository
 
