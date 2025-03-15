@@ -49,7 +49,7 @@ This repository contains:
 | Stacks                | 🔄 In Progress |
 | Queues                | 🔄 In Progress |
 | Generic & Binary Tree | 🔄 In Progress |
-| Binary Search Trees   | ⬜ Not Started |
+| Binary Search Trees   | 🔄 In Progress |
 | Heaps                 | ⬜ Not Started |
 | Maps and Tries        | ⬜ Not Started |
 | Dynamic Programming-1 | ⬜ Not Started |
