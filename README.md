@@ -50,7 +50,7 @@ This repository contains:
 | Queues                | 🔄 In Progress |
 | Generic & Binary Tree | 🔄 In Progress |
 | Binary Search Trees   | 🔄 In Progress |
-| Heaps                 | ⬜ Not Started |
+| Heaps                 | 🔄 In Progress |
 | Maps and Tries        | ⬜ Not Started |
 | Dynamic Programming-1 | ⬜ Not Started |
 | Dynamic Programming-2 | ⬜ Not Started |
