@@ -144,7 +144,7 @@ void heapSort(int* arr, int n){
 		n--;
 		//heapify 1 index wala element	
 		heapify(arr, n, 1);
-	}
+	}  
 }
 
 int main()  {
