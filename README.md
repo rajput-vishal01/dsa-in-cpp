@@ -33,6 +33,7 @@ This repository contains:
 ## Progress Tracker
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 | Module              | Status         |
 | ------------------- | -------------- |
 | Basics              | ✅ Completed   |
@@ -81,6 +82,37 @@ This repository contains:
 | Graphs               | ⬜ Not Started |
 | Dynamic Programming  | ⬜ Not Started |
 >>>>>>> 5be3cfd (ques solved)
+=======
+| Module                | Status         | Revision         |
+| --------------------- | -------------- | ---------------- |
+| Basics                | ✅ Completed   | ⬜ Not Started  |
+| Arrays                | ✅ Completed   | ⬜ Not Started  |
+| STL                   | ✅ Completed   | ⬜ Not Started  |
+| Searching & Sorting   | ✅ Completed   | ⬜ Not Started  |
+| Sorting Algos         | ✅ Completed   | ⬜ Not Started  |
+| Char Arrays & String  | ✅ Completed   | ⬜ Not Started  |
+| Basic Mathematics     | ✅ Completed   | ⬜ Not Started  |
+| Pointers              | ✅ Completed   | ⬜ Not Started  |
+| Recursion             | ✅ Completed   | ⬜ Not Started  |
+| Backtracking and DnC  | ✅ Completed   | ⬜ Not Started  |
+| OOPS                  | ✅ Completed   | ⬜ Not Started  |
+| Linked Lists          | 🔄 In Progress | ⬜ Not Started  |
+| Stacks                | 🔄 In Progress | ⬜ Not Started  |
+| Queues                | 🔄 In Progress | ⬜ Not Started  |
+| Generic & Binary Tree | 🔄 In Progress | ⬜ Not Started  |
+| Binary Search Trees   | 🔄 In Progress | ⬜ Not Started  |
+| Heaps                 | 🔄 In Progress | ⬜ Not Started  |
+| Maps and Tries        | 🔄 In Progress | ⬜ Not Started  |
+| Dynamic Programming-1 | 🔄 In Progress | ⬜ Not Started  |
+| Dynamic Programming-2 | ⬜ Not Started | ⬜ Not Started  |
+| Graph-1               | ⬜ Not Started | ⬜ Not Started  |
+| Graph-2               | ⬜ Not Started | ⬜ Not Started  |
+| Bonus Sessions        | ⬜ Not Started | ⬜ Not Started  |
+| Mentorship Sessions   | ✅ Completed   | ⬜ Not Started  |
+| --------------------  | -------------- | ---------------- |
+| DSA 3.0 Completed     | 🔄 In Progress|  ⬜ Not Started  |
+| --------------------  | -------------- | -----------------|
+>>>>>>> 7ea6889 (Dp started)
 
 ## How to Use This Repository
 
