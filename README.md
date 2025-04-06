@@ -52,7 +52,7 @@ This repository contains:
 | Heaps                 | 🔄 In Progress | ⬜ Not Started  |
 | Maps and Tries        | 🔄 In Progress | ⬜ Not Started  |
 | Dynamic Programming-1 | 🔄 In Progress | ⬜ Not Started  |
-| Dynamic Programming-2 | ⬜ Not Started | ⬜ Not Started  |
+| Dynamic Programming-2 | 🔄 In Progress | ⬜ Not Started  |
 | Graph-1               | ⬜ Not Started | ⬜ Not Started  |
 | Graph-2               | ⬜ Not Started | ⬜ Not Started  |
 | Bonus Sessions        | ⬜ Not Started | ⬜ Not Started  |
