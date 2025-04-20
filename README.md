@@ -54,7 +54,7 @@ This repository contains:
 | Dynamic Programming-1 | 🔄 In Progress | ⬜ Not Started  |
 | Dynamic Programming-2 | 🔄 In Progress | ⬜ Not Started  |
 | Graph-1               | 🔄 In Progress | ⬜ Not Started  |
-| Graph-2               | ⬜ Not Started | ⬜ Not Started  |
+| Graph-2               | 🔄 In Progress | ⬜ Not Started  |
 | Bonus Sessions        | ⬜ Not Started | ⬜ Not Started  |
 | Mentorship Sessions   | ✅ Completed   | ⬜ Not Started  |
 | --------------------  | -------------- | ---------------- |
