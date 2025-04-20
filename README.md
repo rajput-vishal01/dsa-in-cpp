@@ -76,7 +76,6 @@ This repository contains:
 
 ---
 
-Let me know if you want this in a more casual tone or want to track revision progress too!
 
 ## How to Use This Repository
 
