@@ -39,11 +39,11 @@ This repository contains:
 | Searching & Sorting   | ✅ Completed   | ⬜ Not Started  |
 | Sorting Algos         | ✅ Completed   | ⬜ Not Started  |
 | Char Arrays & String  | ✅ Completed   | ⬜ Not Started  |
-| Basic Mathematics     | ✅ Completed   | ⬜ Not Started  |
-| Pointers              | ✅ Completed   | ⬜ Not Started  |
-| Recursion             | ✅ Completed   | ⬜ Not Started  |
-| Backtracking and DnC  | ✅ Completed   | ⬜ Not Started  |
-| OOPS                  | ✅ Completed   | ⬜ Not Started  |
+| Basic Mathematics     | 🔄 In Progress | ⬜ Not Started  |
+| Pointers              | 🔄 In Progress | ⬜ Not Started  |
+| Recursion             | 🔄 In Progress | ⬜ Not Started  |
+| Backtracking and DnC  | 🔄 In Progress | ⬜ Not Started  |
+| OOPS                  | 🔄 In Progress | ⬜ Not Started  |
 | Linked Lists          | 🔄 In Progress | ⬜ Not Started  |
 | Stacks                | 🔄 In Progress | ⬜ Not Started  |
 | Queues                | 🔄 In Progress | ⬜ Not Started  |
@@ -60,6 +60,23 @@ This repository contains:
 | --------------------  | -------------- | ---------------- |
 | DSA 3.0 Completed     | 🔄 In Progress|  ⬜ Not Started  |
 | --------------------  | -------------- | -----------------|
+
+---
+
+### 📌 Note
+
+> All course modules which are marked as **In Progress**, indicates that I have completed watching the lecture videos for each topic. However, I still have pending assignments and doubt sessions for these modules.  
+>
+> My current goal is to **eliminate my fear of DSA** and build enough confidence to **attempt placement-level questions effectively**.  
+>
+> With the placement season approaching, I have prioritized completing the conceptual parts of the course first, ensuring that I can understand and apply the core ideas during technical interviews and coding rounds.  
+>
+>I will now begin the revision and assignment-solving phase, during which I will >revisit all modules to gain a deeper understanding of the topics and complete any backlogs along the way.
+
+
+---
+
+Let me know if you want this in a more casual tone or want to track revision progress too!
 
 ## How to Use This Repository
 
