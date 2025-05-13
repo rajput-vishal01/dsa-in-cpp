@@ -33,7 +33,7 @@ This repository contains:
 
 | Module                | Status         | Revision         |
 | --------------------- | -------------- | ---------------- |
-| Basics                | ✅ Completed   | ⬜ Not Started  |
+| Basics                | ✅ Completed   | ✅ Completed    |
 | Arrays                | ✅ Completed   | ⬜ Not Started  |
 | STL                   | ✅ Completed   | ⬜ Not Started  |
 | Searching & Sorting   | ✅ Completed   | ⬜ Not Started  |
