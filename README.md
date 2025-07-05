@@ -10,92 +10,21 @@ Supreme 3.0 is a comprehensive course designed to:
 - Equip you with advanced DSA techniques.
 - Prepare you for coding interviews and competitive programming challenges.
 
-## Repository Overview
-
-This repository contains:
-
-1. **Notes**: Key takeaways and summaries of each module.
-2. **Code Solutions**: C++ implementations of problems covered in the course.
-3. **Practice Problems**: Solutions to additional problems for mastering each topic.
-4. **Resources**: Links to helpful materials for further learning.
-
-## Directory Structure
-
-```
-📦 Supreme-3.0-Journey
-├── 📁 Code and Notes
-│   └── Organized by topic (e.g., Arrays, Linked Lists, Trees)
-├── 📁 Practice-Problems
-│   └── Problem statements and solutions
-└── 📄 README.md
-```
-
 ## Progress Tracker
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-| Module              | Status         |
-| ------------------- | -------------- |
-| Basics              | ✅ Completed   |
-| Arrays              | ✅ Completed   |
-| STL                 | ✅ Completed   |
-| Searching & Sorting | ✅ Completed   |
-<<<<<<< HEAD
-| Linked Lists        | 🔄 In Progress |
-=======
-| Sorting Algos       | ✅ Completed   |
-| Char Arrays & String| ✅ Completed   |
-| Basic Mathematics   | ✅ Completed   |
-| Pointers            | ✅ Completed   |
-<<<<<<< HEAD
-| Recursion           | 🔄 In Progress |
-| OOP                 | ⬜ Not Started |
-| Linked Lists        | ⬜ Not Started |
->>>>>>> a7a0d24 (basic maths done)
-=======
-| Recursion           | ✅ Completed   |
-| Backtracking and DnC| ✅ Completed   |
-| OOPS                | ✅ Completed   |
-| Linked Lists        | 🔄 In Progress |
->>>>>>> 317991f (oops done)
-| Trees               | ⬜ Not Started |
-| Graphs              | ⬜ Not Started |
-| Dynamic Programming | ⬜ Not Started |
-=======
-| Module               | Status         |
-| -------------------- | -------------- |
-| Basics               | ✅ Completed   |
-| Arrays               | ✅ Completed   |
-| STL                  | ✅ Completed   |
-| Searching & Sorting  | ✅ Completed   |
-| Sorting Algos        | ✅ Completed   |
-| Char Arrays & String | ✅ Completed   |
-| Basic Mathematics    | ✅ Completed   |
-| Pointers             | ✅ Completed   |
-| Recursion            | ✅ Completed   |
-| Backtracking and DnC | ✅ Completed   |
-| OOPS                 | ✅ Completed   |
-| Linked Lists         | 🔄 In Progress |
-| Stacks               | 🔄 In Progress |
-| Queues               | ⬜ Not Started |
-| Trees                | ⬜ Not Started |
-| Graphs               | ⬜ Not Started |
-| Dynamic Programming  | ⬜ Not Started |
->>>>>>> 5be3cfd (ques solved)
-=======
 | Module                | Status         | Revision         |
 | --------------------- | -------------- | ---------------- |
-| Basics                | ✅ Completed   | ⬜ Not Started  |
+| Basics                | ✅ Completed   | ✅ Completed    |
 | Arrays                | ✅ Completed   | ⬜ Not Started  |
 | STL                   | ✅ Completed   | ⬜ Not Started  |
 | Searching & Sorting   | ✅ Completed   | ⬜ Not Started  |
 | Sorting Algos         | ✅ Completed   | ⬜ Not Started  |
 | Char Arrays & String  | ✅ Completed   | ⬜ Not Started  |
-| Basic Mathematics     | ✅ Completed   | ⬜ Not Started  |
-| Pointers              | ✅ Completed   | ⬜ Not Started  |
-| Recursion             | ✅ Completed   | ⬜ Not Started  |
-| Backtracking and DnC  | ✅ Completed   | ⬜ Not Started  |
-| OOPS                  | ✅ Completed   | ⬜ Not Started  |
+| Basic Mathematics     | 🔄 In Progress | ⬜ Not Started  |
+| Pointers              | 🔄 In Progress | ⬜ Not Started  |
+| Recursion             | 🔄 In Progress | ⬜ Not Started  |
+| Backtracking and DnC  | 🔄 In Progress | ⬜ Not Started  |
+| OOPS                  | 🔄 In Progress | ⬜ Not Started  |
 | Linked Lists          | 🔄 In Progress | ⬜ Not Started  |
 | Stacks                | 🔄 In Progress | ⬜ Not Started  |
 | Queues                | 🔄 In Progress | ⬜ Not Started  |
@@ -112,16 +41,21 @@ This repository contains:
 | --------------------  | -------------- | ---------------- |
 | DSA 3.0 Completed     | 🔄 In Progress|  ⬜ Not Started  |
 | --------------------  | -------------- | -----------------|
->>>>>>> 7ea6889 (Dp started)
 
-## How to Use This Repository
+---
 
-1. **Clone the Repo**:
-   ```bash
-   git clone https://github.com/rajput-vishal01/dsa-in-cpp.git
-   ```
-2. Navigate through the directories to find notes, code, and problems.
-3. Refer to the solutions to understand different approaches.
+### 📌 Note
+
+> All course modules which are marked as **In Progress**, indicates that I have completed watching the lecture videos for each topic. However, I still have pending assignments and doubt sessions for these modules.  
+>
+> My current goal is to **eliminate my fear of DSA** and build enough confidence to **attempt placement-level questions effectively**.  
+>
+> With the placement season approaching, I have prioritized completing the conceptual parts of the course first, ensuring that I can understand and apply the core ideas during technical interviews and coding rounds.  
+>
+>I will now begin the revision and assignment-solving phase, during which I will >revisit all modules to gain a deeper understanding of the topics and complete any backlogs along the way.
+
+
+---
 
 ## Acknowledgements
 
@@ -131,6 +65,7 @@ A huge thanks to **Love Babbar** and the **CodeHelp** team for creating this ama
 
 If you're also taking this course or have any questions, feel free to connect:
 
+- **Portfolio**: [askvishal.in](https://askvishal.in)
 - **GitHub**: [rajput-vishal01](https://github.com/rajput-vishal01)
 - **Email**: [askvishal.me@gmail.com](mailto:askvishal.me@gmail.com)
 
