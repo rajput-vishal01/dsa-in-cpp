@@ -15,11 +15,11 @@ Supreme 3.0 is a comprehensive course designed to:
 | Module                | Status         | Revision         |
 | --------------------- | -------------- | ---------------- |
 | Basics                | ✅ Completed   | ✅ Completed    |
-| Arrays                | ✅ Completed   | ⬜ Not Started  |
-| STL                   | ✅ Completed   | ⬜ Not Started  |
-| Searching & Sorting   | ✅ Completed   | ⬜ Not Started  |
-| Sorting Algos         | ✅ Completed   | ⬜ Not Started  |
-| Char Arrays & String  | ✅ Completed   | ⬜ Not Started  |
+| Arrays                | ✅ Completed   | ✅ Completed    |
+| STL                   | ✅ Completed   | ✅ Completed    |
+| Searching & Sorting   | ✅ Completed   | ✅ Completed    |
+| Sorting Algos         | ✅ Completed   | ✅ Completed    |
+| Char Arrays & String  | ✅ Completed   | ✅ Completed    |
 | Basic Mathematics     | 🔄 In Progress | ⬜ Not Started  |
 | Pointers              | 🔄 In Progress | ⬜ Not Started  |
 | Recursion             | 🔄 In Progress | ⬜ Not Started  |
@@ -37,7 +37,7 @@ Supreme 3.0 is a comprehensive course designed to:
 | Graph-1               | 🔄 In Progress | ⬜ Not Started  |
 | Graph-2               | 🔄 In Progress | ⬜ Not Started  |
 | Bonus Sessions        | ⬜ Not Started | ⬜ Not Started  |
-| Mentorship Sessions   | ✅ Completed   | ⬜ Not Started  |
+| Mentorship Sessions   | ✅ Completed   | ✅ Completed    |
 | --------------------  | -------------- | ---------------- |
 | DSA 3.0 Completed     | 🔄 In Progress|  ⬜ Not Started  |
 | --------------------  | -------------- | -----------------|
