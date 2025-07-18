@@ -20,8 +20,8 @@ Supreme 3.0 is a comprehensive course designed to:
 | Searching & Sorting   | ✅ Completed   | ✅ Completed    |
 | Sorting Algos         | ✅ Completed   | ✅ Completed    |
 | Char Arrays & String  | ✅ Completed   | ✅ Completed    |
-| Basic Mathematics     | 🔄 In Progress | ⬜ Not Started  |
-| Pointers              | 🔄 In Progress | ⬜ Not Started  |
+| Basic Mathematics     | ✅ Completed   | ✅ Completed    |
+| Pointers              | ✅ Completed   | ✅ Completed    |
 | Recursion             | 🔄 In Progress | ⬜ Not Started  |
 | Backtracking and DnC  | 🔄 In Progress | ⬜ Not Started  |
 | OOPS                  | 🔄 In Progress | ⬜ Not Started  |
