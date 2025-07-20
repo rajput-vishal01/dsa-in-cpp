@@ -22,7 +22,7 @@ Supreme 3.0 is a comprehensive course designed to:
 | Char Arrays & String  | ✅ Completed   | ✅ Completed    |
 | Basic Mathematics     | ✅ Completed   | ✅ Completed    |
 | Pointers              | ✅ Completed   | ✅ Completed    |
-| Recursion             | 🔄 In Progress | ⬜ Not Started  |
+| Recursion             | ✅ Completed   | ✅ Completed    |
 | Backtracking and DnC  | 🔄 In Progress | ⬜ Not Started  |
 | OOPS                  | 🔄 In Progress | ⬜ Not Started  |
 | Linked Lists          | 🔄 In Progress | ⬜ Not Started  |
