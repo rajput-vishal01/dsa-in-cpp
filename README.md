@@ -23,7 +23,7 @@ Supreme 3.0 is a comprehensive course designed to:
 | Basic Mathematics     | ✅ Completed   | ✅ Completed    |
 | Pointers              | ✅ Completed   | ✅ Completed    |
 | Recursion             | ✅ Completed   | ✅ Completed    |
-| Backtracking and DnC  | 🔄 In Progress | ⬜ Not Started  |
+| Backtracking and DnC  | ✅ Completed   | ✅ Completed    |
 | OOPS                  | 🔄 In Progress | ⬜ Not Started  |
 | Linked Lists          | 🔄 In Progress | ⬜ Not Started  |
 | Stacks                | 🔄 In Progress | ⬜ Not Started  |
