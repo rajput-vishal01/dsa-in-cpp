@@ -24,7 +24,7 @@ Supreme 3.0 is a comprehensive course designed to:
 | Pointers              | ✅ Completed   | ✅ Completed    |
 | Recursion             | ✅ Completed   | ✅ Completed    |
 | Backtracking and DnC  | ✅ Completed   | ✅ Completed    |
-| OOPS                  | 🔄 In Progress | ⬜ Not Started  |
+| OOPS                  | ✅ Completed   | ✅ Completed    |
 | Linked Lists          | 🔄 In Progress | ⬜ Not Started  |
 | Stacks                | 🔄 In Progress | ⬜ Not Started  |
 | Queues                | 🔄 In Progress | ⬜ Not Started  |
