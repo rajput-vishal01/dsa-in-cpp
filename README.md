@@ -26,7 +26,7 @@ Supreme 3.0 is a comprehensive course designed to:
 | Backtracking and DnC  | ✅ Completed   | ✅ Completed    |
 | OOPS                  | ✅ Completed   | ✅ Completed    |
 | Linked Lists          | ✅ Completed   | ✅ Completed    |
-| Stacks                | 🔄 In Progress | ⬜ Not Started  |
+| Stacks                | ✅ Completed   | ✅ Completed    |
 | Queues                | 🔄 In Progress | ⬜ Not Started  |
 | Generic & Binary Tree | 🔄 In Progress | ⬜ Not Started  |
 | Binary Search Trees   | 🔄 In Progress | ⬜ Not Started  |
