@@ -1,56 +1,60 @@
-#include <iostream>
-#include <deque>
-#include <queue>
-#include <vector>
-using namespace std;
+// GFG : First negative in every window of size k
+
 
 //sliding window
-/*
-step 1; process first window
-step 2: process remaining window-> ans/removal/addition
-*/
-
-queue<int> firstNegativeInWindow(const vector<int>& arr, int k) {
-    deque<int> dq;
-    queue<int> result;
-    int n = arr.size();
-
-    //processing the first window
-    for (int i = 0; i < k; i++) {
-        if (arr[i] < 0)
-            dq.push_back(i);
+class Solution {
+  public:
+    vector<int> firstNegInt(vector<int>& arr, int k) {
+        deque<long long int>q;
+        vector<int> ans;
+       
+        //step 1: process the window
+        for(int i=0;i<k;i++){
+            int elem = arr[i];
+             
+            if(elem < 0){
+                q.push_back(i);
+            }
+        }
+       
+       
+        //above will store indexes of the -ve number from the first window;
+        //step:2 process the remaining window;
+       
+        // put the data of first window
+        if(q.empty()){
+            ans.push_back(0);
+        }else{
+            int index=q.front();
+            int elem=arr[index];
+            ans.push_back(elem);
+        }
+       
+       
+        for(int i=k;i<arr.size();i++){
+            // slide the window
+            //removal of prev elem
+            if(!q.empty() &&  i-q.front()>=k){
+                q.pop_front();
+            }
+           
+            //addition of new elem
+            int elem=arr[i];
+            if(elem<0){
+                q.push_back(i);
+            }
+           
+            // put the data of current window
+            if(q.empty()){
+                ans.push_back(0);
+            }else{
+                int index=q.front();
+                int elem=arr[index];
+                ans.push_back(elem);
+            }
+        }
+       
+        return ans;
     }
+};
 
-    // process remaining window-> ans/removal/addition
-    for (int i = k; i < n; i++) {
-        if (!dq.empty())
-            {result.push(arr[dq.front()]);}
-        else
-           { result.push(0);}
-        while (!dq.empty() && dq.front() <= i - k)
-            dq.pop_front();
-        if (arr[i] < 0)
-            dq.push_back(i);
-    }
-    if (!dq.empty())
-        result.push(arr[dq.front()]);
-    else
-       { result.push(0);}
-    return result;
-}
-
-int main(){
-    int n, k;
-    cin >> n >> k;
-    vector<int> arr(n);
-    for (int i = 0; i < n; i++){
-        cin >> arr[i];
-    }
-    queue<int> ans = firstNegativeInWindow(arr, k);
-    while (!ans.empty()){
-        cout << ans.front() << " ";
-        ans.pop();
-    }
-    cout << endl;
-    return 0;
-}
