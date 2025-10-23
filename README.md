@@ -29,7 +29,7 @@ Supreme 3.0 is a comprehensive course designed to:
 | Stacks                | ✅ Completed   | ✅ Completed    |
 | Queues                | ✅ Completed   | ✅ Completed    |
 | Generic & Binary Tree | ✅ Completed   | ✅ Completed    |
-| Binary Search Trees   | 🔄 In Progress | ⬜ Not Started  |
+| Binary Search Trees   | ✅ Completed   | ✅ Completed    |
 | Heaps                 | 🔄 In Progress | ⬜ Not Started  |
 | Maps and Tries        | 🔄 In Progress | ⬜ Not Started  |
 | Dynamic Programming-1 | 🔄 In Progress | ⬜ Not Started  |
