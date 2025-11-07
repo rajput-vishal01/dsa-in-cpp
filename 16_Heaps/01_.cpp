@@ -83,6 +83,11 @@ public:
 	}
 
 	void deleteFromHeap() {
+
+		if (index == 0) {
+	    cout << "Heap is empty";
+      return;
+    }
 		//replacement
 		swap(arr[1], arr[index]);
 		//size decrease
