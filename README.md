@@ -32,8 +32,8 @@ Supreme 3.0 is a comprehensive course designed to:
 | Binary Search Trees   | ✅ Completed   | ✅ Completed    |
 | Heaps                 | ✅ Completed   | ✅ Completed    |
 | Maps and Tries        | ✅ Completed   | ✅ Completed    |
-| Dynamic Programming-1 | 🔄 In Progress | ⬜ Not Started  |
-| Dynamic Programming-2 | 🔄 In Progress | ⬜ Not Started  |
+| Dynamic Programming-1 | ✅ Completed   | ✅ Completed    |
+| Dynamic Programming-2 | ✅ Completed   | ✅ Completed    |
 | Graph-1               | 🔄 In Progress | ⬜ Not Started  |
 | Graph-2               | 🔄 In Progress | ⬜ Not Started  |
 | Bonus Sessions        | ⬜ Not Started | ⬜ Not Started  |
